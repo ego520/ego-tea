@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="ego-tea",
-  version="0.0.2",
+  version="0.0.3",
   author="ego",
   author_email="1224632377@qq.com",
   description="ego-tea package",
